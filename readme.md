@@ -49,6 +49,7 @@ Use your knowledge of cookies and XSS to exploit the system and impersonate anot
 Alter the code to fix the XSS exploit.
 
 **Hint:** *Much of the source code is executed in JavaScript in the browser.*
+**Hint 2:** Weakchat contains several vulnerabilities which enable different attack scenarios.  You don't need to find them all, but you should try to find as many as possible.
 
 Document your process of stealing the cookie and fixing the system using screenshots and explanations. Compile that into a PDF.
 

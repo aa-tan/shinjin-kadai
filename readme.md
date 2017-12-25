@@ -12,7 +12,8 @@ Document your process in a PDF.
 
 ## Task 2 - Packet Capture:
 #### Scenario
-You stumbled upon the log file of your coworker! Maybe you can take a peek to see what kind of things he's looking at during work hours and rat him out to the boss if it's not work-related.
+You want to know which sites are sending users to your company.  You've found this access_log file in Common Log Format from Apache and want to write a program that can sift out the referrer data.
+
 #### Instructions
 Write a script that parses through the log compiles a list of all the unique referers.
 

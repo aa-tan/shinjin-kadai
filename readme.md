@@ -52,7 +52,7 @@ Document your process of stealing the cookie and fixing the system using screens
 Commit your changes and push to the branch. (Include the PDF that contains your explanations)
 
 ## Submitting
-Go to [this github repository](https://github.com/aa-tan/weak-chat) and clone it.
+Clone this repository
 
 Make a new branch titled `submission`.
 

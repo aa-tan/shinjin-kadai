@@ -48,6 +48,8 @@ Use your knowledge of cookies and XSS to exploit the system and impersonate anot
 
 Alter the code to fix the XSS exploit.
 
+**Hint:** *Much of the source code is executed in JavaScript in the browser.*
+
 Document your process of stealing the cookie and fixing the system using screenshots and explanations. Compile that into a PDF.
 
 Commit your changes and push to the branch. (Include the PDF that contains your explanations)

@@ -10,18 +10,7 @@ Complete the [XSS Game](https://xss-game.appspot.com/).
 
 Document your process in a PDF.
 
-## Task 2 - Packet Capture:
-#### Scenario
-You want to know which sites are sending users to your company.  You've found this access_log file in Common Log Format from Apache and want to write a program that can sift out the referrer data.
-
-#### Instructions
-Write a script that parses through the log compiles a list of all the unique referers.
-
-Sort the referers by number of occurrences. 
-
-Script can be in a language of your choice.
-
-## Task 3 - GDB
+## Task 2 - GDB
 ### Scenario
 All this XSS work is starting to get boring. To change things up, you decide to check out this tutorial on GDB.
 ### Instructions
@@ -30,13 +19,13 @@ All this XSS work is starting to get boring. To change things up, you decide to 
 
 Submit proof in the form of a text file containing the password.
 
-## Task 4 - Practical test
+## Task 3 - Practical test
 #### Scenario
 In order to prove your understanding of XSS before tackling the real deal, you decide to do a mock test and fix a vulnerable JS function.
 #### Instructions
 Access Task 4 and alter the code to fix the exploit.
 
-## Task 5 - Weakchat:
+## Task 4 - Weakchat:
 
 #### Scenario
 This is it. The culmination of all your work. Let's do it.

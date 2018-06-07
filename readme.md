@@ -23,7 +23,7 @@ Submit proof in the form of a text file containing the password.
 #### Scenario
 In order to prove your understanding of XSS before tackling the real deal, you decide to do a mock test and fix a vulnerable JS function.
 #### Instructions
-Access Task 4 and alter the code to fix the exploit.
+Access Task 3 and alter the code to fix the exploit.
 
 ## Task 4 - Weakchat:
 

@@ -10,28 +10,19 @@ Complete the [XSS Game](https://xss-game.appspot.com/).
 
 Document your process in a PDF.
 
-## Task 2 - GDB
-### Scenario
-All this XSS work is starting to get boring. To change things up, you decide to check out this tutorial on GDB.
-### Instructions
-
-[Complete this tutorial](https://atan.moe/learning-to-use-gdb/).
-
-Submit proof in the form of a text file containing the password.
-
-## Task 3 - Practical test
+## Task 2 - Practical test
 #### Scenario
 In order to prove your understanding of XSS before tackling the real deal, you decide to do a mock test and fix a vulnerable JS function.
 #### Instructions
-Access Task 3 and alter the code to fix the exploit.
+Access Task 2 and alter the code to fix the exploit.
 
-## Task 4 - Weakchat:
+## Task 3 - Weakchat:
 
 #### Scenario
 This is it. The culmination of all your work. Let's do it.
 
 #### Instructions
-Access [weakchat](http://hack.keio.ninja) chatroom.
+Access [weakchat](http://hackme.atan.moe)
 
 Use your knowledge of cookies and XSS to exploit the system and impersonate another user. (You may act as both users)
 
@@ -39,7 +30,7 @@ Alter the code to fix the XSS exploit.
 
 **Hint:** *Much of the source code is executed in JavaScript in the browser.*
 **Hint 2:** Weakchat contains several vulnerabilities which enable different attack scenarios.  You don't need to find them all, but you should try to find as many as possible.
-
+**Hint 3:** Sourcecode for weakchat can be found in the Task-3 directory
 Document your process of stealing the cookie and fixing the system using screenshots and explanations. Compile that into a PDF.
 
 Commit your changes and push to the branch. (Include the PDF that contains your explanations)

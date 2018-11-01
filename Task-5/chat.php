@@ -28,12 +28,12 @@
 
     ?>
 		<meta charset="utf-8">
-		<title>チャットルーム</title>
+		<title>Chat room!</title>
     <script src="sha256.js"></script>
 		<script>
       window.onload = function(){
         var flag = false;
-        if (document.cookie){ //Cookieの確認
+        if (document.cookie){
           var cookies = document.cookie.split("; ");
           for (var i = 0; i < cookies.length; i++){
             var str = cookies[i].split("=");
@@ -43,7 +43,7 @@
             }
           }
         }
-        if(!flag){ //Cookieがなかった
+        if(!flag){
           document.cookie = "key="+String(new Date().getTime()) +decodeURIComponent(location.hash);
         }
 
@@ -56,8 +56,8 @@
 	</head>
 	<body>
 		<center>
-			<h1>チャットルーム</h1>
-      <h2>ようこそ<span id="hname"></span></h2>
+			<h1>Chat room!</h1>
+      <h2>Welcome, <span id="hname"></span></h2>
 			
 			<hr>
 			
@@ -85,7 +85,7 @@
 			<form id="post" method="POST">
 				<input type="text" name="content"><br>
 				<input type="hidden" name="name" id="name">
-				<input type="submit" value="送信">
+				<input type="submit" value="Send">
 			</form>
 		</center>
 	</body>

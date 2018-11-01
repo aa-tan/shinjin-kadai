@@ -8,7 +8,7 @@ create table data(
   hash varchar(10)
 );
 insert into data(content,name,hash) values
-  ("はじめまして、管理者です。","admin","a0434bbffd"),
-  ("指示のない破壊的なことはやめましょう","admin","a0434bbffd"),
-  ("良識を持って行動してください","admin","a0434bbffd");
+  ("This is a super secure chat room","Korry","c820aa309d"),
+  ("Trust us","Aaron","a0434bbffd"),
+  ("<marquee>Don't hack us</marquee>","ADMIN","40a8ee5bf3");
 

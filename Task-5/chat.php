@@ -88,7 +88,7 @@
 				<input type="submit" value="Send">
 			</form>
       <form action="/reset.php" method="POST">
-          <input type="submit" value="Send">
+          <input type="submit" value="Reset Table">
       </form>
 		</center>
 	</body>

@@ -24,5 +24,6 @@
           (\"Trust us\",\"Aaron\",\"a0434bbffd\"),
           (\"<marquee>Don't hack us</marquee>\",\"ADMIN\",\"40a8ee5bf3\");");
     }
-
+    header("Location: http://hackme.atan.moe");
+    die();
 ?>

@@ -87,6 +87,9 @@
 				<input type="hidden" name="name" id="name">
 				<input type="submit" value="Send">
 			</form>
+      <form action="/reset.php" method="POST">
+          <input type="submit" value="Send">
+      </form>
 		</center>
 	</body>
 </html>
